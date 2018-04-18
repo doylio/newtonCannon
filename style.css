@@ -1,0 +1,28 @@
+html {
+	height: 100%
+}
+
+body {
+	background: #FAFAFA;
+	height: 90%;
+}
+
+div{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+content {
+	margin: 4px;
+	background-color: #3134A1;
+}
+
+footer {
+	margin: 20px;
+}
+
+
+#error {
+	color: red;
+}
